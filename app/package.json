@@ -1,0 +1,9 @@
+{
+  "name": "docker-lab-app",
+  "version": "1.0.0",
+  "description": "Static Docker lab guide",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
